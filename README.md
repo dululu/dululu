@@ -2,7 +2,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=dululu&theme=dark)
 
-https://github-readme-stats.vercel.app/api?dululu={dululu}
+![](https://github-readme-stats.vercel.app/api?dululu={dululu})
 
 <!--
 **dululu/dululu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
