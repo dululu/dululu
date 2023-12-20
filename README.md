@@ -22,7 +22,7 @@
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    srcset="https://github.com/dululu/dululu/blob/main/github-user-contribution.svg"
   />
   <img
     alt="github contribution grid snake animation"
